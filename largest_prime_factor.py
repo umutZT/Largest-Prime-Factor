@@ -16,6 +16,6 @@ def is_it_prime(number):
        return True
 
 
-number2 = 78451
+number = 78451
 
-print(find_prime(number2))
+print(find_prime(number))
